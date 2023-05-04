@@ -1,6 +1,8 @@
 App de controle financeiro
 ![preview](./assets/preview.PNG)
 
+[Clique aqui para acessar](https://igormolinals.github.io/App-de-financas/)
+
 Projeto construído durante o curso Full Stack Javascript da OneBitCode
 
 Para iniciar o projeto, acesse o banco de dados através do terminal integrado, usando o comando:
@@ -20,8 +22,6 @@ S
 
 Lembrando que, a partir deste momento, suas alterações no banco de dados não serão salvas.
 
-[Clique aqui para acessar](https://igormolinals.github.io/App-de-financas/)
-
 ## Tecnologias
 
 -HTML
@@ -36,4 +36,5 @@ Lembrando que, a partir deste momento, suas alterações no banco de dados não 
 
 ## Contato
 igoramil452@gmail.com
+<br/>
 https://www.linkedin.com/in/igor-molinals/
